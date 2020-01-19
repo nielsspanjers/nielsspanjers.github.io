@@ -60,6 +60,10 @@ button em {
     border: none;
 }
 
+.navbar {
+    background-color: white;
+}
+
 .green_circle {
   height: 25px;
   width: 25px;
